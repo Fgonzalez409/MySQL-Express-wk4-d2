@@ -1,0 +1,21 @@
+{
+  "name": "311_wk2_day2_express-continued",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.14.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^3.4.1"
+  }
+}
